@@ -1,12 +1,43 @@
 {
-  "type": "service_account",
-  "project_id": "redantotsu-dev",
-  "private_key_id": "key123",
-  "private_key": "-----BEGIN RSA PRIVATE KEY-----\nMIIEpAIBAAKCAQEA0Z3VS5JJcds3s3VfDnLz6G1eHwE9x8uTq2LcakzYLXrwA/bx\nlmA6fC4HlLLX5gx1LxJgLZPR3L4K2yIVYEfVK4MIsjFz5V5+KfXkJl0qzCTCxNfb\nLCzP7K5L8L5K8L5K8L5K8L5K8L5K8L5K8L5K8L5K8L5K8L5K8L5K8L5K8L5K8L5K\n8L5K8L5K8L5K8L5K8L5K8L5K8L5K8L5K8L5K8L5K8L5K8L5K8L5K8L5K8L5K8L5K\n8L5K8L5K8L5K8L5K8L5K8L5K8L5K8L5K8L5K8L5K8L5K8L5K8L5K8L5K8QIDAQABAoIBADEw\nk1Dso2n9LqGQLqXxjMVAjkJxFgp5lJXq5gNkVpDZgvyZsQXkJqFNUfQn5vQn5vQn5vQn5vQn5vQn\n5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn\n5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn\n5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn\n5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn\n5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn\n5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn\n5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn\n5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn\n5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn\n5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn\n5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn\n5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn\n5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn\n5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn\n5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn\n5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn\n5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn5vQn\n-----END RSA PRIVATE KEY-----",
-  "client_email": "firebase-adminsdk@redantotsu-dev.iam.gserviceaccount.com",
-  "client_id": "123456789",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk%40redantotsu-dev.iam.gserviceaccount.com"
+  "project_info": {
+    "project_number": "123456789",
+    "firebase_url": "https://redantotsu-dev.firebaseio.com",
+    "project_id": "redantotsu-dev",
+    "storage_bucket": "redantotsu-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456789:android:abcdef1234567890",
+        "android_client_info": {
+          "package_name": "app.redantotsu.asr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123456789-abcdefghijklmnopqrstuvwxyz.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDummyKeyForTestingBuildOnly1234567"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "analytics_property_id": "G-DUMMY123456"
+        },
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123456789-abcdefghijklmnopqrstuvwxyz.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }
