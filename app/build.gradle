@@ -20,8 +20,6 @@ android {
         targetSdk 35
         versionName "1.0.6"
         versionCode 100000006
-        signingConfig signingConfigs.debug
-
     }
 
     flavorDimensions += "store"
@@ -54,7 +52,7 @@ android {
             versionNameSuffix "-beta01"
             manifestPlaceholders.icon_placeholder = "@mipmap/ic_launcher_beta"
             manifestPlaceholders.icon_placeholder_round = "@mipmap/ic_launcher_beta_round"
-            debuggable false
+            debuggable true
         }
         release {
             manifestPlaceholders.icon_placeholder = "@mipmap/ic_launcher"
